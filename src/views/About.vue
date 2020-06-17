@@ -24,7 +24,7 @@
       Software Engineer passionate about developing innovative
       products geared toward simplifying & Improving life.
 
-      I am currently building @WebberTM 🔥
+      I am currently building @Solec Netlinks 🔥
         <br/>
 
 
