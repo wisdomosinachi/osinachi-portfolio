@@ -51,7 +51,7 @@ export default {
 
   data(){
     return{
-      tools : ["Node Js", "Express", "Vue Js", "HTML5 & CSS3", "Git & Github", "Sketch", "IBM Watson","AJAX", "Java", "Learning React & GraphQL"]
+      tools : ["PHP", "C ++", "Node Js", "Express", "Vue Js", "HTML5 & CSS3", "Git & Github", "Sketch", "IBM Watson","AJAX", "Java", "Learning React & GraphQL"]
     }
   }
 }
